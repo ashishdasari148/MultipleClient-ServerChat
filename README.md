@@ -1,8 +1,8 @@
 # MultipleClient-ServerChat
 
 ## Server:
-Compile with: g++ Server.cpp -o server <br />
-Execute with: ./server 1234 <br />
+Compile with : g++ Server.cpp -o server <br />
+Execute with : ./server 1234 <br />
 here 1234 is \<desired port number\> <br />
 Sender Thread actively looks for the messages to be sent. <br />
 Send Message to Client         : \<clientID\> \<message\> <br />
